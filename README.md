@@ -1,2 +1,2 @@
 # Hello-world
-For the assignment 
+"hello, everyone, thankyou for your wonderful lecture..!"
